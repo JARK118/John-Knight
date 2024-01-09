@@ -12,7 +12,7 @@
 
 <h2>📺 YouTube Videos</h2>
 
-- [Hello World!](http://www.youtube.com/@JohnKnight18)
+- [Hello World!](https://www.youtube.com/watch?v=-jtU5ix1KWc)
 - [Active Directory Home Lab Tutorial](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect with me:</h2>
