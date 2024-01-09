@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cyber Security Home Lab Projects:</h2>
 
 - <b>Creating a Home Lab in VirtualBox running Active Directory</b>
-  - [Active Directory Home Lab](https://github.com/JARK118/LABURL)
+  - [Active Directory Home Lab](https://github.com/JARK118/ActiveDirectoryLab)
 
 <h2>Certifications</h2>
 
