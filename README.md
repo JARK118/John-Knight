@@ -21,7 +21,7 @@
 
 
 
-[youtube]: https://www.url.com
+[youtube]: http://www.youtube.com/@JohnKnight18
 [linkedin]: https://linkedin.com/in/johnandrewknight
 
 
