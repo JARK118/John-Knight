@@ -8,6 +8,7 @@
 
 - [Google Cybersecurity Professional Certification](https://www.coursera.org/account/accomplishments/professional-cert/V43SNZ3A3HQ6)
 - CompTIA Security+ SY0-701 (Expected 3/2024)
+- Qualys Vulnerability Management - Foundation
 - [FEMA National Incident Management System (NIMS): ICS-100](https://www.linkedin.com/in/johnandrewknight/details/certifications/1704826475665/single-media-viewer/?profileId=ACoAACCYDKwBoTvbYs7rGcjTYIGjrr93BfN15OM)
 
 <h2>📺 YouTube Videos</h2>
